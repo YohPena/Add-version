@@ -1,3 +1,3 @@
 function versionString = Version()
-    versionString = '2.7.0';
+    versionString = '2.8.0';
 end

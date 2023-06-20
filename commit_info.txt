@@ -1,7 +1,24 @@
 Informations du dernier commit:
-commit da2b7171448656a66942953f728cb94314d013d0
+commit 4f6313e2d5d1be34df1862aa11f7194f96b32a4d
 Author: Yohan PENARANDA <yohpena09@gmail.com>
-Date:   Tue Jun 20 11:11:53 2023 +0200
+Date:   Tue Jun 20 11:18:19 2023 +0200
 
-    Version 2.14.5
+    Version 2.14.7
 
+Modifications apportées:
+commit 4f6313e2d5d1be34df1862aa11f7194f96b32a4d
+Author: Yohan PENARANDA <yohpena09@gmail.com>
+Date:   Tue Jun 20 11:18:19 2023 +0200
+
+    Version 2.14.7
+
+M	Version.m
+A	commit_info.txt
+A	getGitInfo.m
+A	version.bat
+
+Statistiques des modifications:
+warning: in the working copy of 'commit_info.txt', LF will be replaced by CRLF the next time Git touches it
+ commit_info.txt |  6 +++---
+ getGitInfo.m    | 24 ++++++++++++++++++++++--
+ 2 files changed, 25 insertions(+), 5 deletions(-)

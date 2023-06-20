@@ -1,0 +1,7 @@
+Informations du dernier commit:
+commit da2b7171448656a66942953f728cb94314d013d0
+Author: Yohan PENARANDA <yohpena09@gmail.com>
+Date:   Tue Jun 20 11:11:53 2023 +0200
+
+    Version 2.14.5
+
